@@ -1,0 +1,12 @@
+toolbarbutton.bookmark-item[type="menu"] > .toolbarbutton-icon { display:none!important; }
+
+.bookmark-item[container] > .menu-iconic-left,
+.bookmark-item[container] > .toolbarbutton-icon { display:none!important; }
+
+.bookmark-item[container] > hbox > .menu-iconic-icon,
+.bookmark-item[container] > .toolbarbutton-icon { display:none!important; }
+
+.openintabs-menuseparator,
+.openintabs-menuitem,
+.bookmarks-actions-menuseparator {
+display:none!important; }

@@ -1,0 +1,6 @@
+#nav-bar { box-shadow:none!important; }
+#navigator-toolbox { border:none!important; }
+
+#urlbar-background { backdrop-filter:blur(20px)!important; }
+
+#nav-bar-overflow-button > image:nth-child(1) { transform:rotate(90deg); }
